@@ -480,10 +480,10 @@ ul li:hover {
 .info-flex {
   display: flex;
   flex-wrap: nowrap;
-  justify-content: center;
   gap: 60px;
+  justify-content: space-between;
   overflow-x: auto;
-  margin: 30px;
+  margin: 30px 90px;
   -webkit-overflow-scrolling: touch;
 }
 
