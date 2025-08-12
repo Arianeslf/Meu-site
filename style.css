@@ -146,7 +146,7 @@ a:hover {
 .dropdown-cart {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 40px;
 }
 
 /* Dropdown geral */
@@ -500,6 +500,7 @@ ul li:hover {
   flex-wrap: nowrap;
   place-items: center;
   white-space: nowrap;
+  gap: 10px;
 }
 
 .line-info span {
